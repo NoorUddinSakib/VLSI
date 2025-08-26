@@ -1,19 +1,6 @@
-# Hi there, I'm [Your Name]! 👋
+## IC Layout and Verification (Cadence gpdk045)
 
-<a href="https://github.com/Noor-Sakib">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Noor-Sakib&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</a>
-<a href="https://github.com/Noor-Sakib">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noor-Sakib&layout=compact&theme=dracula"/>
-</a>
-
-<br/>
-<br/>
-
-## 👨‍💻 About Me
-
-I'm a EEE graduate based in Germany 📍. I am passionate about analog and digital layout design and love working on projects that involve VLSI.
-
-- 🌱 I’m currently learning **Micro and nanotechnologies**.
-- 👯 I’m looking to collaborate on **IC mask design**.
-- 📫 How to reach me: **n.sakib193@gmail.com**.
+* Analog & Digital Layout: Proficient in creating full-custom layouts for analog and digital circuits using Cadence Virtuoso with the gpdk045 process.
+* Circuit Implementation: Successfully designed and laid out key components including Multiplexers, J-K Flip-Flops, hierarchical cells, and current distribution blocks.
+* Physical Verification: Skilled in performing and debugging Design Rule Checks (DRC) and Layout Versus Schematic (LVS) to ensure design manufacturability and correctness.
+* CAD Tool Proficiency: Competent in using the Cadence tool suite for IC layout, schematic entry, and physical verification.
