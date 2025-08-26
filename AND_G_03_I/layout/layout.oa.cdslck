@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      user_19
+HostName                       cad_vlsi
+ProcessIdentifier              64795
+ProcessCreationTime_UTC        1752289730
+ProcessCreationTime_Readable   Sat Jul 12 09:08:50 2025 +06
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/user_19/Tahoe_19/sakib/AND_G_03_I/layout/layout.oa.cdslck
+TimeEditLocked                 Sat Jul 12 11:30:49 2025 +06
