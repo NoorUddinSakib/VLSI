@@ -1,10 +1,10 @@
-# Hi there, I'm Noor Uddin Sakib! 👋
+# Hi there, I'm [Your Name]! 👋
 
 <a href="https://github.com/Noor-Sakib">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Noor-Sakib&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
 <a href="https://github.com/Noor-Sakib">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dracula"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noor-Sakib&layout=compact&theme=dracula"/>
 </a>
 
 <br/>
