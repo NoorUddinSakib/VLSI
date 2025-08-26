@@ -1,9 +1,9 @@
 # Hi there, I'm Noor Uddin Sakib! 👋
 
-<a href="https://github.com/your-username">
+<a href="https://github.com/Noor-Sakib">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
-<a href="https://github.com/your-username">
+<a href="https://github.com/Noor-Sakib">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dracula"/>
 </a>
 
